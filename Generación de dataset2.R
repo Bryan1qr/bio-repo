@@ -15,10 +15,7 @@ flora <- read.xlsx("Nueva_base_de datos avance.xlsx", sheet = hojas[4], na.strin
 estudios <- read.xlsx("Nueva_base_de datos avance.xlsx", sheet = hojas[5], na.strings = c("-", ""))
 
 # Anfibios y reptiles:
-excepciones <- c(
-  "CLASE", "ORDEN", "FAMILIA", "ESPECIES",
-  "NOMBRE.EN.ESPAÑOL", "IUCN,.2014", "D.S..004-2014", "CITES,.2015"
-)
+excepciones <- names(reptil[1:9])
 names(reptil) <- make.unique(names(reptil))
 df1 <- reptil %>% 
   rename_with(
@@ -35,7 +32,7 @@ base_names <- names(df1) %>%
 df_sumado <- map_dfc(base_names, function(colbase) {
   cols <- df1 %>% select(matches(paste0("^", colbase, "(\\.|$)")))
   
-  tibble(!!colbase := rowSums(cols == "X", na.rm = TRUE))
+  tibble(!!colbase := rowSums(cols != "" & !is.na(cols), na.rm = TRUE))
 })
 
 df_final <- df1 %>% 
@@ -44,7 +41,7 @@ df_final <- df1 %>%
 
 df_final %>%
   pivot_longer(cols = starts_with("X")) %>%
-  filter(value >= 0) -> db_rept_anf
+  filter(value > 0) -> db_rept_anf
 
 
 # Aves:
@@ -65,7 +62,7 @@ base_names2 <- names(df2) %>%
 df_sumado2 <- map_dfc(base_names2, function(colbase) {
   cols <- df2 %>% select(matches(paste0("^", colbase, "(\\.|$)")))
   
-  tibble(!!colbase := rowSums(cols == "Y", na.rm = TRUE))
+  tibble(!!colbase := rowSums(cols != "" & !is.na(cols), na.rm = TRUE))
 })
 
 df_final2 <- df2 %>% 
@@ -74,7 +71,7 @@ df_final2 <- df2 %>%
 
 df_final2 %>%
   pivot_longer(cols = starts_with("Y")) %>%
-  filter(value >= 0) -> db_aves
+  filter(value > 0) -> db_aves
 
 # Mamíferos:
 
@@ -95,7 +92,7 @@ base_names3 <- names(df3) %>%
 df_sumado3 <- map_dfc(base_names3, function(colbase) {
   cols <- df3 %>% select(matches(paste0("^", colbase, "(\\.|$)")))
   
-  tibble(!!colbase := rowSums(cols == "Z", na.rm = TRUE))
+  tibble(!!colbase := rowSums(cols != "" & !is.na(cols), na.rm = TRUE))
 })
 
 df_final3 <- df3 %>% 
@@ -104,7 +101,7 @@ df_final3 <- df3 %>%
 
 df_final3 %>%
   pivot_longer(cols = starts_with("Z")) %>%
-  filter(value >= 0) -> db_mamiferos
+  filter(value > 0) -> db_mamiferos
 
 
 # Flora:
@@ -125,7 +122,7 @@ base_names4 <- names(df4) %>%
 df_sumado4 <- map_dfc(base_names4, function(colbase) {
   cols <- df4 %>% select(matches(paste0("^", colbase, "(\\.|$)")))
   
-  tibble(!!colbase := rowSums(cols == "G", na.rm = TRUE))
+  tibble(!!colbase := rowSums(cols != "" & !is.na(cols), na.rm = TRUE))
 })
 
 df_final4 <- df4 %>% 
@@ -134,7 +131,7 @@ df_final4 <- df4 %>%
 
 df_final4 %>%
   pivot_longer(cols = starts_with("G")) %>%
-  filter(value >= 0) -> db_flora
+  filter(value > 0) -> db_flora
 
 
 # Unir las tablas:
@@ -167,9 +164,8 @@ comparacion <- full_join(
 
 EJERCICIO <-comparacion %>% filter(is.na(en_df1)| is.na(en_df2))
 seguimiento <- EJERCICIO %>% filter(en_df2 == TRUE)
-openxlsx::write.xlsx(df_completo, "base_data_especies.xlsx")
-write.xlsx(seguimiento, "seguimiento.xlsx")
 
-openxlsx::write.xlsx(db_general %>% select(-c(name, value)) %>% distinct(), "base_solo_especies.xlsx")
-openxlsx::write.xlsx(estudios, "base_solo_estudios.xlsx")
-View(seguimiento)
+write.xlsx(df_completo, "base_data_especies.xlsx")
+write.xlsx(seguimiento, "seguimiento.xlsx")
+write.xlsx(db_general %>% select(-c(name, value)) %>% distinct(), "base_solo_especies.xlsx")
+write.xlsx(estudios, "base_solo_estudios.xlsx")
