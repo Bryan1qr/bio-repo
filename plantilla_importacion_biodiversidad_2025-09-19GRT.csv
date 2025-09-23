@@ -1,0 +1,14 @@
+﻿ID (OPCIONAL);Nombre Común (OPCIONAL);Nombre Científico (OBLIGATORIO);Descripción (OPCIONAL);Reino (OPCIONAL);Filo (OPCIONAL);Subfilo (OPCIONAL);Clase (OPCIONAL);Orden (OPCIONAL);Familia (OPCIONAL);Género (OPCIONAL);Estado Conservación (OPCIONAL);Código IUCN (OPCIONAL);Categoría IUCN (OPCIONAL);Categoría CITES (OPCIONAL);Categoría Nacional (OPCIONAL);Hábitat (OPCIONAL);Latitud (OPCIONAL);Longitud (OPCIONAL);Lugar Específico (OPCIONAL);Región (OPCIONAL);Provincia (OPCIONAL);Distrito (OPCIONAL);Imagen Principal (OPCIONAL);Imagen 2 (OPCIONAL);Imagen 3 (OPCIONAL);Imagen 4 (OPCIONAL)
+;Colibrí de cora;Amazilia cora;Ave pequeña de colores brillantes;Animal;Chordata;Vertebrata;Aves;Apodiformes;Trochilidae;Amazilia;LC;LC;Least Concern;No aplica;No aplica;Bosque tropical;-12.0464;-77.0428;Parque Nacional Huascarán;Lima;Lima;Lima;;;;
+;Cóndor andino;Vultur gryphus;Ave rapaz de gran tamaño, símbolo nacional;Animal;Chordata;Vertebrata;Aves;Accipitriformes;Cathartidae;Vultur;VU;VU;Vulnerable;Apéndice II;En peligro;Montañas andinas;-13.5319;-71.9675;Valle Sagrado;Cusco;Cusco;Cusco;;;;
+;Gallito de las rocas;Rupicola peruvianus;Ave nacional del Perú;Animal;Chordata;Vertebrata;Aves;Passeriformes;Cotingidae;Rupicola;LC;LC;Least Concern;No aplica;Especie protegida;Bosque nublado;-9.19;-75.0152;Reserva Nacional Tingo María;Huánuco;Leoncio Prado;Tingo María;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+INSTRUCCIONES DE USO:;;;;;;;;;;;;;;;;;;;;;;;;;;
+"1. Solo el ""Nombre Científico"" es obligatorio";;;;;;;;;;;;;;;;;;;;;;;;;;
+2. Estados de conservación válidos: EX,EW,CR,EN,VU,NT,LC,DD,NE;;;;;;;;;;;;;;;;;;;;;;;;;;
+3. Reino puede ser: Animal, Plant, Fungi, Protist, Bacteria, Archaea;;;;;;;;;;;;;;;;;;;;;;;;;;
+4. Las coordenadas deben ser en formato decimal (ej: -12.0464);;;;;;;;;;;;;;;;;;;;;;;;;;
+5. Deje en blanco los campos que no apliquen;;;;;;;;;;;;;;;;;;;;;;;;;;
+6. No modifique los encabezados de las columnas;;;;;;;;;;;;;;;;;;;;;;;;;;
+"7. Use punto y coma (;) como separador";;;;;;;;;;;;;;;;;;;;;;;;;;
+8. Guarde el archivo como CSV con codificación UTF-8;;;;;;;;;;;;;;;;;;;;;;;;;;

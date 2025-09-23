@@ -15,7 +15,7 @@ flora <- read.xlsx("Nueva_base_de datos avance.xlsx", sheet = hojas[4], na.strin
 estudios <- read.xlsx("Nueva_base_de datos avance.xlsx", sheet = hojas[5], na.strings = c("-", ""))
 
 # Anfibios y reptiles:
-excepciones <- names(reptil[1:9])
+excepciones <- names(reptil[1:11])
 names(reptil) <- make.unique(names(reptil))
 df1 <- reptil %>% 
   rename_with(
@@ -169,3 +169,51 @@ write.xlsx(df_completo, "base_data_especies.xlsx")
 write.xlsx(seguimiento, "seguimiento.xlsx")
 write.xlsx(db_general %>% select(-c(name, value)) %>% distinct(), "base_solo_especies.xlsx")
 write.xlsx(estudios, "base_solo_estudios.xlsx")
+
+estudios_v2 <- openxlsx::read.xlsx("base_data_especies.xlsx") %>% 
+  select(ESPECIES, INSTITUCIÓN, AÑO, AUTOR, TÍTULO) %>%
+  distinct() %>%
+  mutate(ESPECIES = str_extract(ESPECIES, "^\\S+\\s+\\S+"))
+
+especies <- openxlsx::read.xlsx("base_data_especies.xlsx") %>% 
+  select(TIPO, ESPECIES, NOMBRE.EN.ESPAÑOL, NACIONAL, STATUS) %>% distinct() %>%
+  mutate(ESPECIES = str_extract(ESPECIES, "^\\S+\\s+\\S+")) %>%
+  mutate(STATUS = case_when(
+    STATUS == "Nativo " ~ "Nativo",
+    STATUS == "Nativo" ~ "Nativa",
+    STATUS == "Endémico" ~ "Endémica",
+    STATUS == "Introducido" ~ "Introducida"
+  ))
+
+#* Generar tabla con info de gbif:
+library(rgbif)
+# Función segura para obtener taxonomía
+get_taxonomy <- function(nombre) {
+  tax_info <- name_backbone(name = nombre, rank = "species", verbose = FALSE)
+  data.frame(
+    gbif_id = if ("usageKey" %in% names(tax_info)) tax_info$usageKey else NA,
+    iucn_id = NA_character_,
+    cites_id = NA_character_,
+    nombre_cientifico = nombre,
+    nombre_cientifico2 = if ("scientificName" %in% names(tax_info)) tax_info$scientificName else NA,
+    reino = if ("kingdom" %in% names(tax_info)) tax_info$kingdom else NA,
+    filo = if ("phylum" %in% names(tax_info)) tax_info$phylum else NA,
+    clase = if ("class" %in% names(tax_info)) tax_info$class else NA,
+    orden = if ("order" %in% names(tax_info)) tax_info$order else NA,  # Nombre único
+    familia = if ("family" %in% names(tax_info)) tax_info$family else NA,
+    genero = if ("genus" %in% names(tax_info)) tax_info$genus else NA,
+    stringsAsFactors = FALSE
+  )
+}
+
+taxonomia <- bind_rows(lapply(especies$ESPECIES, get_taxonomy)) %>%
+  left_join(y = especies %>% select(TIPO, ESPECIES, NOMBRE.EN.ESPAÑOL, NACIONAL, STATUS),
+ by = c("nombre_cientifico" = "ESPECIES"))
+
+df <- read.csv("plantilla_importacion_biodiversidad_2025-09-19GRT.csv", sep = ";")
+
+df1 <- name_backbone(name = "Rhea pennata", rank = "species", verbose = FALSE)
+
+write.table(estudios_v2, "data_estudios.csv", sep = ";", row.names = FALSE , fileEncoding = "Latin1")
+write.table(taxonomia %>% mutate(uicn_status = NA_character_, cites_status = NA_character_),
+ "data_especies.csv", sep = ";", row.names = FALSE, fileEncoding = "Latin1")
