@@ -217,3 +217,62 @@ df1 <- name_backbone(name = "Rhea pennata", rank = "species", verbose = FALSE)
 write.table(estudios_v2, "data_estudios.csv", sep = ";", row.names = FALSE , fileEncoding = "Latin1")
 write.table(taxonomia %>% mutate(uicn_status = NA_character_, cites_status = NA_character_),
  "data_especies.csv", sep = ";", row.names = FALSE, fileEncoding = "Latin1")
+
+
+gbif_photos("Rhea pennata", output = "scripts", which = "table", browse = TRUE)
+
+suri <- occ_search(scientificName = "Lama guanicoe")$media[[1]][[1]][[1]]$identifier
+
+
+gbif_photos(suri)
+gbif_photos(suri, which='map')
+
+res <- occ_search(scientificName = "Lama guanicoe", mediaType = 'StillImage', limit=20)
+gbif_photos(res)
+gbif_photos(res, output = 'scripts')
+
+
+# Generación de links de fotos:
+library(rgbif)
+library(dplyr)
+library(purrr)
+
+obtener_foto <- function(nombre){
+  res <- tryCatch(
+    occ_search(scientificName = nombre, limit = 1),
+    error = function(e) NULL
+  )
+  
+  if (!is.null(res) && length(res$media) > 0) {
+    link <- res$media[[1]][[1]][[1]]$identifier
+    if (!is.null(link) && length(link) > 0) {
+      return(as.character(link[1]))  # siempre devuelve 1 string
+    }
+  }
+  
+  return(NA_character_)  # fallback garantizado
+}
+
+n <- nrow(taxonomia)
+pb <- txtProgressBar(min = 0, max = n, style = 3)
+
+resultados <- taxonomia
+resultados$foto <- NA_character_
+
+for (i in seq_len(n)) {
+  Sys.sleep(2) # delay para no superar 30/min
+  resultados$foto[i] <- obtener_foto(taxonomia$nombre_cientifico[i])
+  
+  # actualizar barra y log
+  setTxtProgressBar(pb, i)
+  cat("\nProcesando", i, "/", n, ":", taxonomia$nombre_cientifico[i], "\n")
+}
+
+close(pb)
+
+print(resultados)
+resultadoxddd <- resultados %>% distinct()
+# Patagona gigas
+
+df_completo <- resultadoxddd %>%
+  left_join(estudios_v2, by = c(nombre_cientifico = "ESPECIES"), relationship = "many-to-many")
