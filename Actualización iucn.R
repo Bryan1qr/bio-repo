@@ -59,3 +59,13 @@ dataset_actualizado <- taxonomia %>% mutate(uicn_status = as.character(uicn_stat
 
 write.table(dataset_actualizado, "data_especies.csv",
  sep = ";", row.names = FALSE, fileEncoding = "Latin1")
+
+
+# Dataset para looker:
+hojas <- readxl::excel_sheets("Nueva_base_de datos avance.xlsx")
+estudios <- openxlsx::read.xlsx("Nueva_base_de datos avance.xlsx", sheet = hojas[5], na.strings = c("-", ""))
+df_completo <- taxonomia %>%
+  left_join(estudios_v2, by = c(nombre_cientifico = "ESPECIES"), relationship = "many-to-many")
+
+
+openxlsx::write.xlsx(df_completo, "dataset_looker.xlsx")
