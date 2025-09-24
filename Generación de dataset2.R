@@ -170,7 +170,7 @@ write.xlsx(seguimiento, "seguimiento.xlsx")
 write.xlsx(db_general %>% select(-c(name, value)) %>% distinct(), "base_solo_especies.xlsx")
 write.xlsx(estudios, "base_solo_estudios.xlsx")
 
-estudios_v2 <- openxlsx::read.xlsx("base_data_especies.xlsx") %>% 
+estudios_v2 <- openxlsx::read.xlsx("base_data_especies_v5.xlsx") %>% 
   select(ESPECIES, INSTITUCIÓN, AÑO, AUTOR, TÍTULO) %>%
   distinct() %>%
   mutate(ESPECIES = str_extract(ESPECIES, "^\\S+\\s+\\S+"))

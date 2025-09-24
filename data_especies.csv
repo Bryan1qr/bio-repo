@@ -230,33 +230,33 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 5229424;22696530;NA;"Rollandia rolland";"Rollandia rolland (Quoy & Gaimard, 1824)";"Animalia";"Chordata";"Aves";"Podicipediformes";"Podicipedidae";"Rollandia";"Aves";"Zambullidor Pimpollo";"LC";NA;"LC";NA
 2481410;22698375;NA;"Thalassarche melanophris";"Thalassarche melanophris (Temminck, 1828)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Diomedeidae";"Thalassarche";"Aves";"Albatros de Ceja Negra";"LC";NA;"LC";NA
 4847291;22698388;NA;"Thalassarche salvini";"Thalassarche salvini (Rothschild, 1893)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Diomedeidae";"Thalassarche";"Aves";"Albatros de Salvin";"VU";NA;"VU";NA
-5229416;NA;NA;"Oceanites gracilis";"Oceanites gracilis (Elliot, 1859)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanites";"Aves";"Golondrina de Mar Chica";"DD";NA;NA;NA
-5229419;NA;NA;"Oceanites oceanicus";"Oceanites oceanicus (Kuhl, 1820)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanites";"Aves";"Golondrina de Mar de Wilson";"LC";NA;NA;NA
-10764845;NA;NA;"Hydrobates hornbyi";"Hydrobates hornbyi (G.R.Gray, 1854)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanodroma";"Aves";"Golondrina de Mar Acollarada";"NT";NA;NA;NA
-10910683;NA;NA;"Hydrobates markhami";"Hydrobates markhami (Salvin, 1883)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanodroma";"Aves";"Golondrina de Mar de Markham";"NT";NA;NA;NA
-7884034;NA;NA;"Ardenna bulleri";"Ardenna bulleri (Salvin, 1888)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Puffinus";"Aves";"Pardela de Buller";"VU";NA;NA;NA
-8475930;NA;NA;"Ardenna creatopus";"Ardenna creatopus (Coues, 1864)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Puffinus";"Aves";"Pardela de Pata Rosada";"VU";NA;NA;NA
-8249990;NA;NA;"Ardenna grisea";"Ardenna grisea (J.F.Gmelin, 1789)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Puffinus";"Aves";"Pardela Oscura";"NT";NA;NA;NA
-2481545;NA;NA;"Daption capense";"Daption capense (Linnaeus, 1758)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Daption";"Aves";"Petrel Damero";"LC";NA;NA;NA
-2481432;NA;NA;"Fulmarus glacialoides";"Fulmarus glacialoides (A.Smith, 1840)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Fulmarus";"Aves";"Petrel Plateado";"LC";NA;NA;NA
-2481515;NA;NA;"Macronectes giganteus";"Macronectes giganteus (Gmelin, 1789)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Macronectes";"Aves";"Petrel Gigante Sureño";"LC";NA;NA;NA
-2481516;NA;NA;"Macronectes halli";"Macronectes halli Mathews, 1912";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Macronectes";"Aves";"Petrel Gigante Norteño";"LC";NA;NA;NA
-5229327;NA;NA;"Pachyptila desolata";"Pachyptila desolata (Gmelin, 1789)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Pachyptila";"Aves";"Petrel-Azul Antártico";"LC";NA;NA;NA
-2481427;NA;NA;"Pelecanoides garnotii";"Pelecanoides garnotii (Lesson, 1828)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Pelecanoididae";"Pelecanoides";"Aves";"Potoyunco Peruano";"NT";NA;NA;NA
-2481495;NA;NA;"Procellaria aequinoctialis";"Procellaria aequinoctialis Linnaeus, 1758";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Procellaria";"Aves";"Petrel de Mentón Blanco";"VU";NA;NA;NA
-2480021;NA;8416;"Psilopsiagon aurifrons";"Psilopsiagon aurifrons (Lesson, 1830)";"Animalia";"Chordata";"Aves";"Psittaciformes";"Psittacidae";"Psilopsiagon";"Aves";"Perico Cordillerano";"LC";NA;NA;"II"
-7947677;NA;37609;"Psittacara erythrogenys";"Psittacara erythrogenys R.P.Lesson, 1844";"Animalia";"Chordata";"Aves";"Psittaciformes";"Psittacidae";"Aratinga";"Aves";"Cotorra de Frente Escarlata";"NT";NA;NA;NA
+5229416;22698442;NA;"Oceanites gracilis";"Oceanites gracilis (Elliot, 1859)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanites";"Aves";"Golondrina de Mar Chica";"DD";NA;"DD";NA
+5229419;22698436;NA;"Oceanites oceanicus";"Oceanites oceanicus (Kuhl, 1820)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanites";"Aves";"Golondrina de Mar de Wilson";"LC";NA;"LC";NA
+10764845;22698567;NA;"Hydrobates hornbyi";"Hydrobates hornbyi (G.R.Gray, 1854)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanodroma";"Aves";"Golondrina de Mar Acollarada";"NT";NA;"NT";NA
+10910683;22698543;NA;"Hydrobates markhami";"Hydrobates markhami (Salvin, 1883)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Hydrobatidae";"Oceanodroma";"Aves";"Golondrina de Mar de Markham";"NT";NA;"NT";NA
+7884034;22698182;NA;"Ardenna bulleri";"Ardenna bulleri (Salvin, 1888)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Puffinus";"Aves";"Pardela de Buller";"VU";NA;"VU";NA
+8475930;22698195;NA;"Ardenna creatopus";"Ardenna creatopus (Coues, 1864)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Puffinus";"Aves";"Pardela de Pata Rosada";"VU";NA;"VU";NA
+8249990;22698209;NA;"Ardenna grisea";"Ardenna grisea (J.F.Gmelin, 1789)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Puffinus";"Aves";"Pardela Oscura";"NT";NA;"NT";NA
+2481545;22697879;NA;"Daption capense";"Daption capense (Linnaeus, 1758)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Daption";"Aves";"Petrel Damero";"LC";NA;"LC";NA
+2481432;22697870;NA;"Fulmarus glacialoides";"Fulmarus glacialoides (A.Smith, 1840)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Fulmarus";"Aves";"Petrel Plateado";"LC";NA;"LC";NA
+2481515;22697852;NA;"Macronectes giganteus";"Macronectes giganteus (Gmelin, 1789)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Macronectes";"Aves";"Petrel Gigante Sureño";"LC";NA;"LC";NA
+2481516;22697859;NA;"Macronectes halli";"Macronectes halli Mathews, 1912";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Macronectes";"Aves";"Petrel Gigante Norteño";"LC";NA;"LC";NA
+5229327;22698114;NA;"Pachyptila desolata";"Pachyptila desolata (Gmelin, 1789)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Pachyptila";"Aves";"Petrel-Azul Antártico";"LC";NA;"LC";NA
+2481427;22698280;NA;"Pelecanoides garnotii";"Pelecanoides garnotii (Lesson, 1828)";"Animalia";"Chordata";"Aves";"Procellariiformes";"Pelecanoididae";"Pelecanoides";"Aves";"Potoyunco Peruano";"NT";NA;"NT";NA
+2481495;22698140;NA;"Procellaria aequinoctialis";"Procellaria aequinoctialis Linnaeus, 1758";"Animalia";"Chordata";"Aves";"Procellariiformes";"Procellariidae";"Procellaria";"Aves";"Petrel de Mentón Blanco";"VU";NA;"VU";NA
+2480021;22685907;8416;"Psilopsiagon aurifrons";"Psilopsiagon aurifrons (Lesson, 1830)";"Animalia";"Chordata";"Aves";"Psittaciformes";"Psittacidae";"Psilopsiagon";"Aves";"Perico Cordillerano";"LC";NA;"LC";"II"
+7947677;22685672;37609;"Psittacara erythrogenys";"Psittacara erythrogenys R.P.Lesson, 1844";"Animalia";"Chordata";"Aves";"Psittaciformes";"Psittacidae";"Aratinga";"Aves";"Cotorra de Frente Escarlata";"NT";NA;"NT";NA
 5229128;NA;NA;"Himantopus mexicanus";"Himantopus mexicanus (P.L.S.Müller, 1776)";"Animalia";"Chordata";"Aves";"Charadriiformes";"Recurvirostridae";"Himantopus";"Aves";"Cigüeñuela de Cuello Negro";"LC";NA;NA;NA
-5229386;NA;9843;"Spheniscus humboldti";"Spheniscus humboldti Meyen, 1834";"Animalia";"Chordata";"Aves";"Sphenisciformes";"Spheniscidae";"Spheniscus";"Aves";"Pingüino de Humboldt";"VU";NA;NA;"I"
-2497295;NA;7943;"Asio flammeus";"Asio flammeus (Pontoppidan, 1763)";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Asio";"Aves";"Lechuza de Oreja Corta";"LC";NA;NA;"II"
-2497240;NA;9177;"Athene cunicularia";"Athene cunicularia (Molina, 1782)";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Athene";"Aves";"Lechuza Terrestre";"LC";NA;NA;"II"
-5959118;NA;3231;"Bubo virginianus";"Bubo virginianus (J.F.Gmelin, 1788)";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Bubo";"Aves";"Búho Americano";"LC";NA;NA;"II"
-5232094;NA;4170;"Glaucidium peruanum";"Glaucidium peruanum C.König, 1991";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Glaucidium";"Aves";"Lechucita Peruana";"LC";NA;NA;"II"
+5229386;22697817;9843;"Spheniscus humboldti";"Spheniscus humboldti Meyen, 1834";"Animalia";"Chordata";"Aves";"Sphenisciformes";"Spheniscidae";"Spheniscus";"Aves";"Pingüino de Humboldt";"VU";NA;"VU";"I"
+2497295;22689531;7943;"Asio flammeus";"Asio flammeus (Pontoppidan, 1763)";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Asio";"Aves";"Lechuza de Oreja Corta";"LC";NA;"NT";"II"
+2497240;22689353;9177;"Athene cunicularia";"Athene cunicularia (Molina, 1782)";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Athene";"Aves";"Lechuza Terrestre";"LC";NA;"LC";"II"
+5959118;61752071;3231;"Bubo virginianus";"Bubo virginianus (J.F.Gmelin, 1788)";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Bubo";"Aves";"Búho Americano";"LC";NA;"LC";"II"
+5232094;22689253;4170;"Glaucidium peruanum";"Glaucidium peruanum C.König, 1991";"Animalia";"Chordata";"Aves";"Strigiformes";"Strigidae";"Glaucidium";"Aves";"Lechucita Peruana";"LC";NA;"LC";"II"
 9568884;NA;NA;"Tyto furcata";"Tyto furcata (Temminck, 1827)";"Animalia";"Chordata";"Aves";"Strigiformes";"Tytonidae";"Tyto";"Aves";"Lechuza de Campanario";"LC";NA;NA;NA
-2495160;NA;32985;"Rhea pennata";"Rhea pennata d'Orbigny, 1834";"Animalia";"Chordata";"Aves";"Rheiformes";"Rheidae";"Rhea";"Aves";"Ñandú Petizo (Suri)";"LC";NA;NA;NA
-2477584;NA;NA;"Nothoprocta pentlandii";"Nothoprocta pentlandii (G.R.Gray, 1867)";"Animalia";"Chordata";"Aves";"Tinamiformes";"Tinamidae";"Nothoprocta";"Aves";"Perdiz Andina";"LC";NA;NA;NA
-2477459;NA;NA;"Tinamotis pentlandii";"Tinamotis pentlandii Vigors, 1837";"Animalia";"Chordata";"Aves";"Tinamiformes";"Tinamidae";"Tinamotis";"Aves";"Perdiz de la Puna, Kiula";"LC";NA;NA;NA
-2434340;NA;8023;"Lycalopex culpaeus";"Lycalopex culpaeus (Molina, 1782)";"Animalia";"Chordata";"Mammalia";"Carnivora";"Canidae";"Lycalopex";"Mamíferos";"Zorro colorado, atoj";NA;NA;NA;"II"
+2495160;22678081;32985;"Rhea pennata";"Rhea pennata d'Orbigny, 1834";"Animalia";"Chordata";"Aves";"Rheiformes";"Rheidae";"Rhea";"Aves";"Ñandú Petizo (Suri)";"LC";NA;"LC";NA
+2477584;22678259;NA;"Nothoprocta pentlandii";"Nothoprocta pentlandii (G.R.Gray, 1867)";"Animalia";"Chordata";"Aves";"Tinamiformes";"Tinamidae";"Nothoprocta";"Aves";"Perdiz Andina";"LC";NA;"LC";NA
+2477459;22678299;NA;"Tinamotis pentlandii";"Tinamotis pentlandii Vigors, 1837";"Animalia";"Chordata";"Aves";"Tinamiformes";"Tinamidae";"Tinamotis";"Aves";"Perdiz de la Puna, Kiula";"LC";NA;"LC";NA
+2434340;6929;8023;"Lycalopex culpaeus";"Lycalopex culpaeus (Molina, 1782)";"Animalia";"Chordata";"Mammalia";"Carnivora";"Canidae";"Lycalopex";"Mamíferos";"Zorro colorado, atoj";NA;NA;"LC";"II"
 2434328;6927;8142;"Lycalopex griseus";"Lycalopex griseus (Gray, 1837)";"Animalia";"Chordata";"Mammalia";"Carnivora";"Canidae";"Lycalopex";"Mamíferos";"Zorro gris, chilla";"DD";NA;"LC";"II"
 2434919;15309;3049;"Leopardus colocolo";"Leopardus colocolo (Molina, 1782)";"Animalia";"Chordata";"Mammalia";"Carnivora";"Felidae";"Leopardus";"Mamíferos";"Gato del pajonal, oscollo";"DD";NA;"NT";NA
 2434979;15452;98335;"Leopardus jacobita";"Leopardus jacobitus (Cornalia, 1865)";"Animalia";"Chordata";"Mammalia";"Carnivora";"Felidae";"Leopardus";"Mamíferos";"Gato montés, gato andino";"EN";NA;"EN";"I"
@@ -381,7 +381,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 9602141;NA;NA;"Deschampsia eminens";"Deschampsia eminens (J.Presl) Saarela";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Deschampsia";"Flora";NA;NA;NA;NA;NA
 8010581;NA;NA;"Diplachne fusca";"Diplachne fusca (L.) P.Beauv. ex Roem. & Schult.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Diplachne";"Flora";NA;NA;NA;NA;NA
 4121711;NA;NA;"Distichlis humilis";"Distichlis humilis Phil.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Distichlis";"Flora";NA;NA;NA;NA;NA
-2704509;NA;NA;"Distichlis spicata";"Distichlis spicata (L.) Greene";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Distichlis";"Flora";"Grama salada";NA;"Nativa";NA;NA
+2704509;64311188;NA;"Distichlis spicata";"Distichlis spicata (L.) Greene";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Distichlis";"Flora";"Grama salada";NA;"Nativa";"LC";NA
 2702794;NA;NA;"Echinochloa crus-";"Echinochloa P.Beauv.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Echinochloa";"Flora";NA;NA;"Introducida";NA;NA
 4107295;NA;NA;"Eragrostis attenuata";"Eragrostis attenuata Hitchc.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Eragrostis";"Flora";NA;NA;NA;NA;NA
 4139037;NA;NA;"Eragrostis virescens";"Eragrostis virescens J.Presl";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Eragrostis";"Flora";NA;NA;"Introducida";NA;NA
@@ -396,27 +396,27 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 2705036;NA;NA;"Festuca rigescens";"Festuca rigescens (J.Presl) Kunth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Festuca";"Flora";NA;NA;NA;NA;NA
 4124368;NA;NA;"Festuca fiebrigii";"Festuca fiebrigii Pilg.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Festuca";"Flora";NA;NA;"Nativa";NA;NA
 10923472;NA;NA;"Festuca floribunda";"Festuca floribunda (Pilg.) P.M.Peterson, Soreng & Romasch.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Festuca";"Flora";NA;NA;NA;NA;NA
-4115329;NA;NA;"Hordeum muticum";"Hordeum muticum J.Presl";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Hordeum";"Flora";NA;NA;"Nativa";NA;NA
-2706056;NA;NA;"Hordeum vulgare";"Hordeum vulgare L.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Hordeum";"Flora";NA;NA;"Introducida";NA;NA
+4115329;117763632;NA;"Hordeum muticum";"Hordeum muticum J.Presl";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Hordeum";"Flora";NA;NA;"Nativa";"LC";NA
+2706056;172105;NA;"Hordeum vulgare";"Hordeum vulgare L.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Hordeum";"Flora";NA;NA;"Introducida";"LC";NA
 5678417;NA;NA;"Jarava ichu";"Jarava ichu Ruiz & Pav.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Jarava";"Flora";"Ichu";NA;"Nativa";NA;NA
 2703940;NA;NA;"Muhlenbergia peruviana";"Muhlenbergia peruviana (P.Beauv.) Steud.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Muhlenbergia";"Flora";NA;NA;NA;NA;NA
 5679353;NA;NA;"Nassella asplundii";"Nassella asplundii Hitchc.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;NA;NA;NA
 5677355;NA;NA;"Nassella brachyphylla";"Nassella brachyphylla (Hitchc.) Barkworth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;NA;NA;NA
 5679387;NA;NA;"Nassella mucronata";"Nassella mucronata (Kunth) R.W.Pohl";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;NA;NA;NA
-5679388;NA;NA;"Nassella nardoides";"Nassella nardoides (Phil.) Barkworth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;"Nativa";NA;NA
+5679388;44392667;NA;"Nassella nardoides";"Nassella nardoides (Phil.) Barkworth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;"Nativa";"LC";NA
 5289831;NA;NA;"Nassella neesiana";"Nassella neesiana (Trin. & Rupr.) Barkworth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;"Nativa";NA;NA
 4149237;NA;NA;"Nassella pubiflora";"Nassella pubiflora (Trin. & Rupr.) É.Desv.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;NA;NA;NA
 5679293;NA;NA;"Nassella smithii";"Nassella smithii (Hitchc.) Barkworth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Nassella";"Flora";NA;NA;NA;NA;NA
 4111007;NA;NA;"Paspalum flavum";"Paspalum flavum J.Presl";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Paspalum";"Flora";NA;NA;NA;NA;NA
 2705602;NA;NA;"Paspalum racemosum";"Paspalum racemosum Lam.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Paspalum";"Flora";NA;NA;NA;NA;NA
-5290149;NA;NA;"Phragmites australis";"Phragmites australis (Cav.) Trin. ex Steud.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Phragmites";"Flora";"Carrizo";NA;"Nativa";NA;NA
+5290149;164494;NA;"Phragmites australis";"Phragmites australis (Cav.) Trin. ex Steud.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Phragmites";"Flora";"Carrizo";NA;"Nativa";"LC";NA
 4129894;NA;NA;"Poa aequigluma";"Poa aequigluma Tovar";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;"Endémica";NA;NA
-2704179;NA;NA;"Poa annua";"Poa annua L.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;"Introducida";NA;NA
+2704179;168729;NA;"Poa annua";"Poa annua L.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;"Introducida";"LC";NA
 4129937;NA;NA;"Poa adusta";"Poa adusta J.Presl";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;NA;NA;NA
 4136828;NA;NA;"Poa calycina";"Poa calycina (J.Presl) Kunth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;NA;NA;NA
 4119438;NA;NA;"Poa kurtzii";"Poa kurtzii R.E.Fr.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;NA;NA;NA
 7494774;NA;NA;"Poa macusaniensis";"Poa macusaniensis (E.H.L.Krause) Refulio";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;"Endémica";NA;NA
-2704178;NA;NA;"Poa pratensis";"Poa pratensis L.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;"Introducida";NA;NA
+2704178;176440;NA;"Poa pratensis";"Poa pratensis L.";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;"Introducida";"LC";NA
 7388598;NA;NA;"Poa serpana";"Poa serpana Refulio";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Poa";"Flora";NA;NA;NA;NA;NA
 5289911;NA;NA;"Polypogon elongatus";"Polypogon elongatus Kunth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Polypogon";"Flora";NA;NA;NA;NA;NA
 5289915;NA;NA;"Polypogon interruptus";"Polypogon interruptus Kunth";"Plantae";"Tracheophyta";"Liliopsida";"Poales";"Poaceae";"Polypogon";"Flora";NA;NA;"Nativa";NA;NA
@@ -539,17 +539,17 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3134008;NA;NA;"Coreopsis fasciculata";"Coreopsis fasciculata Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Coreopsis";"Flora";NA;NA;"Endémica";NA;NA
 8542672;185679;NA;"Cotula australis";"Cotula australis (Sieber ex Spreng.) Hook.fil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Cotula";"Flora";NA;NA;"Introducida";"DD";NA
 3144484;NA;NA;"Cuatrecasasiella argentina";"Cuatrecasasiella argentina (Cabrera) H.Rob.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Cuatrecasasiella";"Flora";NA;NA;"Nativa";NA;NA
-3112364;NA;NA;"Cynara cardunculus";"Cynara cardunculus L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Cynara";"Flora";NA;NA;"Introducida";NA;NA
+3112364;202979;NA;"Cynara cardunculus";"Cynara cardunculus L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Cynara";"Flora";NA;NA;"Introducida";"LC";NA
 3090620;NA;NA;"Diplostephium meyenii";"Diplostephium meyenii (Sch.Bip.) Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Diplostephium";"Flora";"Kalihua, Kasihua, ajana";NA;"Nativa";NA;NA
 3090612;NA;NA;"Diplostephium tacorense";"Diplostephium tacorense Hieron.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Diplostephium";"Flora";NA;NA;NA;NA;NA
-5384950;NA;NA;"Eclipta prostrata";"Eclipta prostrata (L.) L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Eclipta";"Flora";NA;NA;"Nativa";NA;NA
+5384950;164051;NA;"Eclipta prostrata";"Eclipta prostrata (L.) L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Eclipta";"Flora";NA;NA;"Nativa";"LC";NA
 8035320;NA;NA;"Encelia canescens";"Encelia canescens Lam.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Encelia";"Flora";NA;NA;NA;NA;NA
 3146717;NA;NA;"Erigeron bonariensis";"Erigeron bonariensis L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Erigeron";"Flora";NA;NA;"Nativa";NA;NA
 3147087;NA;NA;"Erigeron lanceolatus";"Erigeron lanceolatus Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Erigeron";"Flora";NA;NA;"Nativa";NA;NA
 7729701;NA;NA;"Erigeron pazensis";"Erigeron pazensis Sch.Bip. ex Rusby";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Erigeron";"Flora";NA;NA;NA;NA;NA
 3147013;NA;NA;"Erigeron rosulatus";"Erigeron rosulatus Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Erigeron";"Flora";NA;NA;"Nativa";NA;NA
 3110303;NA;NA;"Facelis plumosa";"Facelis plumosa (Wedd.) Sch.Bip.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Facelis";"Flora";NA;NA;"Nativa";NA;NA
-3086861;NA;NA;"Flaveria bidentis";"Flaveria bidentis (L.) Kuntze";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Flaveria";"Flora";"Matagusano";NA;NA;NA;NA
+3086861;164403;NA;"Flaveria bidentis";"Flaveria bidentis (L.) Kuntze";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Flaveria";"Flora";"Matagusano";NA;NA;"LC";NA
 3065;NA;NA;"Galinsoga mandonii";"Asteraceae";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";NA;"Flora";NA;NA;NA;NA;NA
 3132570;NA;NA;"Galinsoga parviflora";"Galinsoga parviflora Cav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Galinsoga";"Flora";NA;NA;NA;NA;NA
 3103158;NA;NA;"Gamochaeta americana";"Gamochaeta americana (Mill.) Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Gamochaeta";"Flora";NA;NA;"Nativa";NA;NA
@@ -677,13 +677,13 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 5393342;133163208;NA;"Werneria glaberrima";"Werneria glaberrima Phil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;"Nativa";"VU";NA
 5393333;NA;NA;"Werneria heteroloba";"Werneria heteroloba Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;NA;NA;NA
 5402733;NA;NA;"Werneria juniperina";"Werneria juniperina Hieron.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";NA;NA;"Nativa";NA;NA
-5393327;NA;NA;"Werneria pectinata";"Werneria pectinata Lingelsh.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;"Nativa";NA;NA
+5393327;133163254;NA;"Werneria pectinata";"Werneria pectinata Lingelsh.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;"Nativa";"LC";NA
 7376188;NA;NA;"Werneria pygmaea";"Werneria pygmaea Gillies ex Hook.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;NA;NA;NA
-5393319;NA;NA;"Werneria solivifolia";"Werneria solivifolia Sch.Bip.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;"Nativa";NA;NA
+5393319;133163264;NA;"Werneria solivifolia";"Werneria solivifolia Sch.Bip.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;"Nativa";"NT";NA
 5393321;NA;NA;"Werneria spathulata";"Werneria spathulata Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;NA;NA;NA
 3089150;NA;NA;"Xanthium spinosum";"Xanthium spinosum L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Xanthium";"Flora";"Espina de perro, Anuchapi";NA;NA;NA;NA
-3142297;NA;NA;"Xenophyllum ciliolatum";"Xenophyllum ciliolatum (A.Gray) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";NA;NA;"Nativa";NA;NA
-3142311;NA;NA;"Xenophyllum incisum";"Xenophyllum incisum (Phil.) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";NA;NA;"Nativa";NA;NA
+3142297;133163331;NA;"Xenophyllum ciliolatum";"Xenophyllum ciliolatum (A.Gray) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";NA;NA;"Nativa";"LC";NA
+3142311;133163369;NA;"Xenophyllum incisum";"Xenophyllum incisum (Phil.) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";NA;NA;"Nativa";"LC";NA
 3142296;133163336;NA;"Xenophyllum digitatum";"Xenophyllum digitatum (Wedd.) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";NA;NA;"Nativa";"NT";NA
 3142310;133163378;NA;"Xenophyllum lycopodioides";"Xenophyllum lycopodioides (S.F.Blake) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";"Sallica";NA;"Nativa";"NT";NA
 3142276;133163429;NA;"Xenophyllum poposum";"Xenophyllum poposum (Phil.) V.A.Funk";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Werneria";"Flora";"Pura pura";NA;"Nativa";"LC";NA
@@ -807,7 +807,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3812903;NA;NA;"Spergularia congestifolia";"Spergularia congestifolia I.M.Johnst.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Caryophyllaceae";"Spergularia";"Flora";NA;NA;"Endémica";NA;NA
 3812752;NA;NA;"Spergularia fasciculata";"Spergularia fasciculata Phil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Caryophyllaceae";"Spergularia";"Flora";NA;NA;"Nativa";NA;NA
 5384613;NA;NA;"Stellaria cuspidata";"Stellaria cuspidata Willd. ex D.F.K.Schltdl.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Caryophyllaceae";"Stellaria";"Flora";NA;NA;NA;NA;NA
-2891930;NA;NA;"Casuarina equisetifolia";"Casuarina equisetifolia L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Fagales";"Casuarinaceae";"Casuarina";"Flora";"Casuarina";NA;"Introducida";NA;NA
+2891930;16728404;NA;"Casuarina equisetifolia";"Casuarina equisetifolia L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Fagales";"Casuarinaceae";"Casuarina";"Flora";"Casuarina";NA;"Introducida";"LC";NA
 3791210;NA;NA;"Maytenus orbicularis";"Maytenus orbicularis (Willd. ex Roem. & Schult.) Loes.";"Plantae";"Tracheophyta";"Magnoliopsida";"Celastrales";"Celastraceae";"Tricerma";"Flora";NA;NA;NA;NA;NA
 7273478;NA;NA;"Cleome chilensis";"Cleome chilensis DC.";"Plantae";"Tracheophyta";"Magnoliopsida";"Brassicales";"Cleomaceae";"Andinocleome";"Flora";NA;NA;NA;NA;NA
 2928390;NA;NA;"Convolvulus arvensis";"Convolvulus arvensis L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Convolvulus";"Flora";NA;NA;NA;NA;NA
@@ -815,7 +815,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 8030039;NA;NA;"Cuscuta foetida";"Cuscuta foetida Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Cuscuta";"Flora";NA;NA;NA;NA;NA
 8285329;NA;NA;"Cuscuta grandiflora";"Cuscuta grandiflora Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Cuscuta";"Flora";NA;NA;NA;NA;NA
 2928668;NA;NA;"Dichondra argentea";"Dichondra argentea Humb. & Bonpl. ex Willd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Dichondra";"Flora";NA;NA;NA;NA;NA
-2928551;NA;NA;"Ipomoea batatas";"Ipomoea batatas (L.) Lam.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Ipomoea";"Flora";NA;NA;"Nativa";NA;NA
+2928551;71775024;NA;"Ipomoea batatas";"Ipomoea batatas (L.) Lam.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Ipomoea";"Flora";NA;NA;"Nativa";"DD";NA
 2928520;NA;NA;"Ipomoea dumetorum";"Ipomoea dumetorum Willd. ex Roem. & Schult.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Ipomoea";"Flora";NA;NA;NA;NA;NA
 7463360;NA;NA;"Ipomoea opulifolia";"Ipomoea opulifolia Rusby";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Ipomoea";"Flora";NA;NA;NA;NA;NA
 2928576;NA;NA;"Ipomoea purpurea";"Ipomoea purpurea (L.) Roth";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Convolvulaceae";"Ipomoea";"Flora";NA;NA;"Nativa";NA;NA
@@ -953,7 +953,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3935717;NA;NA;"Fuertesimalva chilensis";"Fuertesimalva chilensis (A.Braun & C.D.Bouché) Fryxell";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Fuertesimalva";"Flora";NA;NA;NA;NA;NA
 3935646;NA;NA;"Fuertesimalva pennellii";"Fuertesimalva pennellii (Ulbr.) Fryxell";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Fuertesimalva";"Flora";NA;NA;"Endémica";NA;NA
 3935621;NA;NA;"Fuertesimalva peruviana";"Fuertesimalva peruviana (L.) Fryxell";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Fuertesimalva";"Flora";NA;NA;NA;NA;NA
-3152666;NA;NA;"Gossypium barbadense";"Gossypium barbadense L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Gossypium";"Flora";"Algodón";NA;"Nativa";NA;NA
+3152666;71774244;NA;"Gossypium barbadense";"Gossypium barbadense L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Gossypium";"Flora";"Algodón";NA;"Nativa";"LC";NA
 3935047;NA;NA;"Malva assurgentiflora";"Malva assurgentiflora (Kellogg) M.F.Ray";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Malva";"Flora";NA;NA;"Introducida";NA;NA
 3152378;NA;NA;"Malva parviflora";"Malva parviflora L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Malva";"Flora";"Malva";NA;"Introducida";NA;NA
 8338793;NA;NA;"Modiola caroliniana";"Modiola caroliniana (L.) G.Don";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Modiola";"Flora";NA;NA;NA;NA;NA
@@ -1082,26 +1082,26 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3028062;NA;NA;"Alchemilla bipinnatifida";"Alchemilla bipinnatifida L.M.Perry";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Lachemilla";"Flora";NA;NA;NA;NA;NA
 3027637;NA;NA;"Alchemilla diplophylla";"Alchemilla diplophylla Diels";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Lachemilla";"Flora";"Libro-libro";NA;NA;NA;NA
 3025314;NA;NA;"Alchemilla pinnata";"Lachemilla Rydb.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Lachemilla";"Flora";NA;NA;NA;NA;NA
-3016222;NA;NA;"Kageneckia lanceolata";"Kageneckia lanceolata Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Kageneckia";"Flora";"Lloque";"CR";"Nativa";NA;NA
-5370588;NA;NA;"Polylepis besseri";"Polylepis besseri Hieron.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Polylepis";"Flora";"Queñoa";"VU";"Nativa";NA;NA
-5598346;NA;NA;"Polylepis subtusalbida";"Polylepis subtusalbida (Bitter) M.Kessler & Schmidt-Leb.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Polylepis";"Flora";"Queñoa";NA;"Nativa";NA;NA
-5370572;NA;NA;"Polylepis tarapacana";"Polylepis tarapacana Phil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Polylepis";"Flora";"Queñoa";"VU";"Nativa";NA;NA
+3016222;39030;NA;"Kageneckia lanceolata";"Kageneckia lanceolata Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Kageneckia";"Flora";"Lloque";"CR";"Nativa";"VU";NA
+5370588;62851;NA;"Polylepis besseri";"Polylepis besseri Hieron.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Polylepis";"Flora";"Queñoa";"VU";"Nativa";"VU";NA
+5598346;37147;NA;"Polylepis subtusalbida";"Polylepis subtusalbida (Bitter) M.Kessler & Schmidt-Leb.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Polylepis";"Flora";"Queñoa";NA;"Nativa";"EN";NA
+5370572;32050;NA;"Polylepis tarapacana";"Polylepis tarapacana Phil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Polylepis";"Flora";"Queñoa";"VU";"Nativa";"NT";NA
 3853244;NA;NA;"Tetraglochin cristatum";"Tetraglochin cristata (Britton) Rothm.";"Plantae";"Tracheophyta";"Magnoliopsida";"Rosales";"Rosaceae";"Margyricarpus";"Flora";"Kanllia macho";NA;NA;NA;NA
-2913548;NA;NA;"Galium aparine";"Galium aparine L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Gentianales";"Rubiaceae";"Galium";"Flora";NA;NA;"Introducida";NA;NA
+2913548;203459;NA;"Galium aparine";"Galium aparine L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Gentianales";"Rubiaceae";"Galium";"Flora";NA;NA;"Introducida";"LC";NA
 2914607;NA;NA;"Galium corymbosum";"Galium corymbosum Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Gentianales";"Rubiaceae";"Galium";"Flora";NA;NA;NA;NA;NA
 2892272;NA;NA;"Rubia tinctorum";"Rubia tinctorum L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Gentianales";"Rubiaceae";"Rubia";"Flora";NA;NA;"Introducida";NA;NA
 3190381;NA;NA;"Ruta chalepensis";"Ruta chalepensis L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Rutaceae";"Ruta";"Flora";NA;NA;NA;NA;NA
-3190382;NA;NA;"Ruta graveolens";"Ruta graveolens L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Rutaceae";"Ruta";"Flora";NA;NA;"Introducida";NA;NA
-5372914;NA;NA;"Salix humboldtiana";"Salix humboldtiana Willd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malpighiales";"Salicaceae";"Salix";"Flora";"Sauce";NA;"Nativa";NA;NA
+3190382;203462;NA;"Ruta graveolens";"Ruta graveolens L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Rutaceae";"Ruta";"Flora";NA;NA;"Introducida";"LC";NA
+5372914;61960315;NA;"Salix humboldtiana";"Salix humboldtiana Willd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malpighiales";"Salicaceae";"Salix";"Flora";"Sauce";NA;"Nativa";"LC";NA
 3189932;NA;NA;"Cardiospermum corindum";"Cardiospermum corindum L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Cardiospermum";"Flora";NA;NA;NA;NA;NA
-8017915;NA;NA;"Sapindus saponaria";"Sapindus saponaria L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Sapindus";"Flora";NA;NA;"Nativa";NA;NA
-5577967;NA;NA;"Serjania brevipes";"Serjania brevipes Benth.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Serjania";"Flora";NA;NA;NA;NA;NA
+8017915;156771087;NA;"Sapindus saponaria";"Sapindus saponaria L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Sapindus";"Flora";NA;NA;"Nativa";"LC";NA
+5577967;46123;NA;"Serjania brevipes";"Serjania brevipes Benth.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Serjania";"Flora";NA;NA;NA;"EN";NA
 5577320;NA;NA;"Serjania lethalis";"Serjania lethalis A.St.-Hil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Serjania";"Flora";NA;NA;NA;NA;NA
 5577288;NA;NA;"Serjania longipes";"Serjania longipes Radlk.";"Plantae";"Tracheophyta";"Magnoliopsida";"Sapindales";"Sapindaceae";"Serjania";"Flora";NA;NA;NA;NA;NA
 7265288;NA;NA;"Quinchamalium chilense";"Quinchamalium chilense Molina";"Plantae";"Tracheophyta";"Magnoliopsida";"Santalales";"Schoepfiaceae";"Quinchamalium";"Flora";NA;NA;NA;NA;NA
 7869713;NA;NA;"Alonsoa meridionalis";"Alonsoa meridionalis (L.fil.) Kuntze";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Scrophulariaceae";"Alonsoa";"Flora";NA;NA;NA;NA;NA
 3172213;NA;NA;"Limosella australis";"Limosella australis R.Br.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Scrophulariaceae";"Limosella";"Flora";NA;NA;NA;NA;NA
-4055468;NA;NA;"Buddleja coriacea";"Buddleja coriacea J.Rémy";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Scrophulariaceae";"Buddleja";"Flora";"Colle";"CR";"Introducida";NA;NA
+4055468;42533109;NA;"Buddleja coriacea";"Buddleja coriacea J.Rémy";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Scrophulariaceae";"Buddleja";"Flora";"Colle";"CR";"Introducida";"LC";NA
 3797504;NA;NA;"Cestrum auriculatum";"Cestrum auriculatum L'Hér.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Solanaceae";"Cestrum";"Flora";"Hierba santa";NA;NA;NA;NA
 7299866;146114335;NA;"Cestrum strigilatum";"Cestrum strigillatum Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Solanaceae";"Cestrum";"Flora";NA;NA;"Nativa";"LC";NA
 2928751;NA;NA;"Datura stramonium";"Datura stramonium L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Solanales";"Solanaceae";"Datura";"Flora";"Chamico";NA;NA;NA;NA

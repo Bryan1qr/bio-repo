@@ -8,41 +8,56 @@ api <- init_api("UJjX7CaSLakyorMtTKxU4w465HPHMB4EQkjX")
 
 taxonomia <- read.csv("data_especies.csv", fileEncoding = "Latin1", sep = ";")
 # función para consultar una especie
-iucn_info <- function(x, api){
-  # separar género y especie
-  partes <- str_split(x, " ", simplify = TRUE)
-  genus <- partes[1]
-  species <- partes[2]
+iucn_info <- function(x, api) {
+  # separar género y especie (puede haber casos sin especie)
+  partes <- str_split(x, "\\s+", simplify = TRUE)
+  genus <- ifelse(length(partes) >= 1 && partes[1] != "", partes[1], NA)
+  species <- ifelse(length(partes) >= 2 && partes[2] != "", partes[2], NA)
   
   out <- tryCatch(
     {
-      db <- assessments_by_name(api, genus = genus, species = species)
+      # llamada condicional según los campos disponibles
+      if (!is.na(genus) && !is.na(species)) {
+        db <- assessments_by_name(api, genus = genus, species = species)
+      } else if (!is.na(genus)) {
+        db <- assessments_by_name(api, genus = genus)
+      } else {
+        db <- NULL
+      }
       
+      # delay para respetar el rate limit
+      Sys.sleep(2)
+      
+      # si no se encuentra nada
       if (is.null(db) || nrow(db) == 0) {
         tibble(
           name = x,
+          iucn_id = NA,
           category = NA,
           year = NA
         )
       } else {
         tibble(
           name = x,
-          iucn_id = db$sis_taxon_id[1],
-          category = db$red_list_category_code[1],  # puede haber varias, tomo la primera
-          year = db$year_published[1]
+          iucn_id = dplyr::coalesce(db$sis_taxon_id[1], NA),
+          category = dplyr::coalesce(db$red_list_category_code[1], NA),
+          year = dplyr::coalesce(db$year_published[1], NA)
         )
       }
     },
-    error = function(e){
+    error = function(e) {
       tibble(
         name = x,
+        iucn_id = NA,
         category = NA,
         year = NA
       )
     }
   )
+  
   return(out)
 }
+
 library(tidyverse)
 resultados <- map_dfr(taxonomia$nombre_cientifico, iucn_info, api = api)
 resultadosxd <- resultados
@@ -51,9 +66,7 @@ resultados2 <- map_dfr(taxonomia$nombre_cientifico[330:340], iucn_info, api = ap
 a <- assessments_by_name(api, genus = "rhea", species = "pennata")
 
 
-dataset_actualizado <- taxonomia %>% mutate(uicn_status = as.character(uicn_status),
-                                            iucn_id = as.integer(iucn_id)) %>%
-  rename(iucn_status = "uicn_status") %>%
+dataset_actualizado <- taxonomia %>%
   rows_update(resultadosxd %>% distinct() %>% select(-iucn_year), by = "nombre_cientifico")
 
 
