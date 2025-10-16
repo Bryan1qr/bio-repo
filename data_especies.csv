@@ -453,7 +453,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 7657467;NA;NA;"Alternanthera eupatorioides";"Alternanthera eupatorioides Remy";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Alternanthera";"Flora";NA;NA;NA;NA;NA
 8806206;NA;NA;"Alternanthera halimifolia";"Alternanthera halimifolia (Lam.) Standl. ex Pittier";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Alternanthera";"Flora";"Hierba blanca";NA;NA;NA;NA
 7323600;NA;NA;"Alternanthera pubiflora";"Alternanthera pubiflora (Benth.) Kuntze";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Alternanthera";"Flora";NA;NA;NA;NA;NA
-3084949;164017;NA;"Alternanthera pungens";"Alternanthera pungens Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Alternanthera";"Flora";NA;NA;NA;"NA";NA
+3084949;164017;NA;"Alternanthera pungens";"Alternanthera pungens Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Alternanthera";"Flora";NA;NA;NA;NA;NA
 5547995;NA;NA;"Amaranthus celosioides";"Amaranthus celosioides Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Amaranthus";"Flora";NA;NA;NA;NA;NA
 8279930;NA;NA;"Amaranthus dubius";"Amaranthus dubius Mart.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Amaranthus";"Flora";NA;NA;"Nativa";NA;NA
 5384364;NA;NA;"Amaranthus hybridus";"Amaranthus hybridus L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Amaranthaceae";"Amaranthus";"Flora";NA;NA;"Nativa";NA;NA
@@ -589,9 +589,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 9535140;NA;NA;"Mniodes subspicata";"Mniodes subspicata (Wedd.) S.E.Freire, Chemisquy, Anderb. & Urtubey";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mniodes";"Flora";NA;NA;NA;NA;NA
 9349756;NA;NA;"Mniodes schultzii";"Mniodes schultzii (Wedd.) S.E.Freire, Chemisquy, Anderb. & Urtubey";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mniodes";"Flora";NA;NA;NA;NA;NA
 3144188;NA;NA;"Mutisia acuminata";"Mutisia acuminata Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";"Chinchirkuma";NA;"Nativa";NA;NA
-3144188;NA;NA;"Mutisia acuminata";"Mutisia acuminata Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";"Chinchirkuma";NA;"Nativa";NA;NA
-3144188;NA;NA;"Mutisia acuminata";"Mutisia acuminata Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";"Chinchirkuma";NA;"Nativa";NA;NA
-3144188;NA;NA;"Mutisia acuminata";"Mutisia acuminata Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";"Chinchirkuma";NA;"Nativa";NA;NA
 3144130;NA;NA;"Mutisia cochabambensis";"Mutisia cochabambensis Hieron.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";NA;NA;NA;NA;NA
 3144120;NA;NA;"Mutisia lanigera";"Mutisia lanigera Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";NA;NA;"Nativa";NA;NA
 3144124;NA;NA;"Mutisia ledifolia";"Mutisia ledifolia DC. ex Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Mutisia";"Flora";NA;NA;NA;NA;NA
@@ -666,8 +663,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3125994;NA;NA;"Trichocline caulescens";"Trichocline caulescens Phil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Trichocline";"Flora";NA;NA;"Nativa";NA;NA
 5398960;NA;NA;"Trixis cacalioides";"Trixis cacalioides (Kunth) D.Don";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Trixis";"Flora";NA;NA;"Nativa";NA;NA
 5386982;NA;NA;"Villanova oppositifolia";"Villanova oppositifolia Lag.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Villanova";"Flora";NA;NA;NA;NA;NA
-9392518;NA;NA;"Aldama helianthoides";"Aldama helianthoides (Rich.) E.E.Schill. & Panero";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Aldama";"Flora";NA;NA;"Nativa";NA;NA
-9392518;NA;NA;"Aldama helianthoides";"Aldama helianthoides (Rich.) E.E.Schill. & Panero";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Aldama";"Flora";"Saki";NA;NA;NA;NA
 5699906;NA;NA;"Viguiera weberbaueri";"Viguiera weberbaueri S.F.Blake";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Viguiera";"Flora";NA;"NT";"Endémica";NA;NA
 5393338;NA;NA;"Werneria apiculata";"Werneria apiculata Sch.Bip.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;NA;NA;NA
 5393320;133255174;NA;"Werneria aretioides";"Werneria aretioides Wedd.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Rockhausenia";"Flora";NA;NA;"Nativa";"LC";NA
@@ -745,9 +740,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3957901;152446;27668;"Corryocactus brachypetalus";"Corryocactus brachypetalus (Vaupel) Britton & Rose";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Corryocactus";"Flora";"Cactus";NA;"Endémica";"EN";"II"
 7284023;152049;27353;"Corryocactus brevistylus";"Corryocactus brevistylus (Schum. ex Vaupel) Britton & Rose";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Corryocactus";"Flora";"Cure, Sankallo";NA;"Nativo";"LC";"II"
 7283063;152106;39993;"Cumulopuntia boliviana";"Cumulopuntia boliviana (Salm-Dyck) F.Ritter";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";NA;NA;"Nativa";"LC";"II"
-7283063;152106;39993;"Cumulopuntia boliviana";"Cumulopuntia boliviana (Salm-Dyck) F.Ritter";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";NA;NA;"Nativa";"LC";"II"
-7283063;152106;39993;"Cumulopuntia boliviana";"Cumulopuntia boliviana (Salm-Dyck) F.Ritter";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";NA;NA;"Nativa";"LC";"II"
-7283063;152106;39993;"Cumulopuntia boliviana";"Cumulopuntia boliviana (Salm-Dyck) F.Ritter";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";NA;NA;"Nativa";"LC";"II"
 3954179;NA;94002;"Cumulopuntia corotilla";"Cumulopuntia corotilla (K.Schum. ex Vaupel) E.F.Anderson";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";"Perrito";NA;"Endémica";NA;"II"
 3954042;NA;48160;"Cumulopuntia ignescens";"Cumulopuntia ignescens (Vaupel) F.Ritter";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";"Pulla-pulla, Puscalla";NA;"Nativa";NA;NA
 10786898;NA;94004;"Cumulopuntia leucophaea";"Cumulopuntia leucophaea (Phil.) Hoxey";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Cumulopuntia";"Flora";NA;NA;"Nativa";NA;"II"
@@ -768,12 +760,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 3952313;152541;27851;"Oreocereus leucotrichus";"Oreocereus leucotrichus (Phil.) Wagenkn.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Oreocereus";"Flora";"Viejito, Abuelito, chascudo";NA;"Nativa";"LC";"II"
 3952208;NA;22948;"Oreocereus tacnaensis";"Oreocereus × tacnaensis (Backeb.) F.Ritter";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Oreocereus";"Flora";NA;NA;"Endémica";NA;NA
 3952140;NA;48992;"Trichocereus macrogonus";"Trichocereus macrogonus (Salm-Dyck) Riccob.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Trichocereus";"Flora";NA;NA;"Endémica";NA;NA
-3952140;NA;48992;"Trichocereus macrogonus";"Trichocereus macrogonus (Salm-Dyck) Riccob.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Trichocereus";"Flora";NA;NA;"Endémica";NA;NA
-3952140;NA;48992;"Trichocereus macrogonus";"Trichocereus macrogonus (Salm-Dyck) Riccob.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Trichocereus";"Flora";NA;NA;"Endémica";NA;NA
-3952140;NA;48992;"Trichocereus macrogonus";"Trichocereus macrogonus (Salm-Dyck) Riccob.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Trichocereus";"Flora";NA;NA;"Endémica";NA;NA
 7281510;152351;14418;"Weberbauerocereus weberbaueri";"Weberbauerocereus weberbaueri (Schum. ex Vaupel) Backeb.";"Plantae";"Tracheophyta";"Magnoliopsida";"Caryophyllales";"Cactaceae";"Weberbauerocereus";"Flora";NA;NA;"Endémica";"LC";"II"
-8395199;NA;NA;"Calceolaria inamoena";"Calceolaria inamoena Kraenzl.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Calceolariaceae";"Calceolaria";"Flora";"Zapato, Amayzapato";NA;"Nativa";NA;NA
-8395199;NA;NA;"Calceolaria inamoena";"Calceolaria inamoena Kraenzl.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Calceolariaceae";"Calceolaria";"Flora";"Amayzapato, Zapato zapato";NA;"Nativa";NA;NA
 8395199;NA;NA;"Calceolaria inamoena";"Calceolaria inamoena Kraenzl.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Calceolariaceae";"Calceolaria";"Flora";"Zapato, Amayzapato";NA;"Nativa";NA;NA
 8395199;NA;NA;"Calceolaria inamoena";"Calceolaria inamoena Kraenzl.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Calceolariaceae";"Calceolaria";"Flora";"Amayzapato, Zapato zapato";NA;"Nativa";NA;NA
 7571263;NA;NA;"Calceolaria plectranthifolia";"Calceolaria plectranthifolia Walp.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Calceolariaceae";"Calceolaria";"Flora";NA;NA;NA;NA;NA
@@ -824,8 +811,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 5688853;NA;NA;"Sedum reniforme";"Sedum reniforme (H.Jacobsen) Thiede & 't Hart";"Plantae";"Tracheophyta";"Magnoliopsida";"Saxifragales";"Crassulaceae";"Sedum";"Flora";NA;NA;"Endémica";NA;NA
 7317898;NA;NA;"Sicyos baderoa";"Sicyos baderoa Hook. & Arn.";"Plantae";"Tracheophyta";"Magnoliopsida";"Cucurbitales";"Cucurbitaceae";"Sicyos";"Flora";NA;NA;"Nativa";NA;NA
 7278648;217482872;NA;"Escallonia angustifolia";"Escallonia angustifolia C.Presl";"Plantae";"Tracheophyta";"Magnoliopsida";"Escalloniales";"Escalloniaceae";"Escallonia";"Flora";"Chalsa";NA;"Nativa";"LC";NA
-8376201;NA;NA;"Escallonia myrtilloides";"Escallonia myrtilloides L.fil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Escalloniales";"Escalloniaceae";"Escallonia";"Flora";NA;NA;"Nativa";NA;NA
-8376201;NA;NA;"Escallonia myrtilloides";"Escallonia myrtilloides L.fil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Escalloniales";"Escalloniaceae";"Escallonia";"Flora";NA;"VU";"Nativa";NA;NA
 8376201;NA;NA;"Escallonia myrtilloides";"Escallonia myrtilloides L.fil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Escalloniales";"Escalloniaceae";"Escallonia";"Flora";NA;NA;"Nativa";NA;NA
 8376201;NA;NA;"Escallonia myrtilloides";"Escallonia myrtilloides L.fil.";"Plantae";"Tracheophyta";"Magnoliopsida";"Escalloniales";"Escalloniaceae";"Escallonia";"Flora";NA;"VU";"Nativa";NA;NA
 3932480;NA;NA;"Escallonia salicifolia";"Escallonia salicifolia Mattf.";"Plantae";"Tracheophyta";"Magnoliopsida";"Escalloniales";"Escalloniaceae";"Escallonia";"Flora";NA;"VU";"Nativa";NA;NA
@@ -932,11 +917,7 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 4021124;NA;NA;"Caiophora deserticola";"Caiophora deserticola Weigend & Mark.Ackermann";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";NA;NA;"Nativa";NA;NA
 4021668;NA;NA;"Caiophora pentlandii";"Caiophora pentlandii (Paxton) G.Don ex Loudon";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";"Ortiga macho";NA;NA;NA;NA
 7289799;NA;NA;"Caiophora rosulata";"Caiophora rosulata (Wedd.) Urb. & Gilg";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";NA;NA;"Nativa";NA;NA
-4021171;NA;NA;"Caiophora cirsiifolia";"Caiophora cirsiifolia C.Presl";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";NA;NA;"Endémica";NA;NA
-4021171;NA;NA;"Caiophora cirsiifolia";"Caiophora cirsiifolia C.Presl";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";"Ortiga macho";NA;"Nativa";NA;NA
 4021476;NA;NA;"Caiophora stenocarpa";"Caiophora stenocarpa Urb. & Gilg";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";NA;NA;"Endémica";NA;NA
-4021192;NA;NA;"Caiophora chuquitensis";"Caiophora chuquitensis (Meyen) Urb. & Gilg";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";NA;NA;"Nativa";NA;NA
-4021192;NA;NA;"Caiophora chuquitensis";"Caiophora chuquitensis (Meyen) Urb. & Gilg";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Caiophora";"Flora";"Ortiga colorada";NA;"Nativa";NA;NA
 8247106;NA;NA;"Loasa nitida";"Loasa nitida Desr.";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Loasa";"Flora";NA;NA;"Endémica";NA;NA
 7289741;NA;NA;"Mentzelia scabra";"Mentzelia scabra Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Mentzelia";"Flora";NA;NA;"Nativa";NA;NA
 5646376;NA;NA;"Nasa urens";"Nasa urens (Jacq.) Weigend";"Plantae";"Tracheophyta";"Magnoliopsida";"Cornales";"Loasaceae";"Nasa";"Flora";"Ortiga amarilla";NA;"Nativa";NA;NA
@@ -976,8 +957,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 5617202;NA;NA;"Palaua velutina";"Palaua velutina Ulbr. & Hill";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Palaua";"Flora";NA;NA;"Endémica";NA;NA
 5617197;NA;NA;"Palaua weberbaueri";"Palaua weberbaueri Ulbr.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Palaua";"Flora";NA;NA;NA;NA;NA
 5618393;NA;NA;"Sida jatrophoides";"Sida jatrophoides L'Hér.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Sida";"Flora";NA;NA;NA;NA;NA
-3118274;NA;NA;"Tanacetum vulgare";"Tanacetum vulgare L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Tanacetum";"Flora";NA;NA;"Introducida";NA;NA
-3118274;NA;NA;"Tanacetum vulgare";"Tanacetum vulgare L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Asterales";"Asteraceae";"Tanacetum";"Flora";NA;NA;NA;NA;NA
 3936920;NA;NA;"Tarasa capitata";"Tarasa capitata (Cav.) D.M.Bates";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Tarasa";"Flora";NA;NA;NA;NA;NA
 3936738;NA;NA;"Tarasa operculata";"Tarasa operculata (Cav.) Krapov.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Tarasa";"Flora";"Palo blanco";NA;"Nativa";NA;NA
 3936663;NA;NA;"Tarasa tenuis";"Tarasa tenuis Krapov.";"Plantae";"Tracheophyta";"Magnoliopsida";"Malvales";"Malvaceae";"Tarasa";"Flora";NA;NA;"Endémica";NA;NA
@@ -1033,8 +1012,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 2874196;NA;NA;"Passiflora mollissima";"Passiflora mollissima (Kunth) L.H.Bailey";"Plantae";"Tracheophyta";"Magnoliopsida";"Malpighiales";"Passifloraceae";"Passiflora";"Flora";NA;NA;NA;NA;NA
 8419357;NA;NA;"Erythranthe glabrata";"Erythranthe glabrata (Kunth) G.L.Nesom";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Phrymaceae";"Erythranthe";"Flora";"Berro, Occocolo";NA;"Nativa";NA;NA
 3171169;164168;NA;"Bacopa monnieri";"Bacopa monnieri (L.) Pennell";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Bacopa";"Flora";"Verdolaga";NA;"Nativa";"LC";NA
-7709879;58085438;NA;"Callitriche heteropoda";"Callitriche heteropoda Engelm. ex Hegelm.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Callitriche";"Flora";NA;NA;NA;"DD";NA
-7709879;58085438;NA;"Callitriche heteropoda";"Callitriche heteropoda Engelm. ex Hegelm.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Callitriche";"Flora";NA;NA;"Nativa";"DD";NA
 3728495;NA;NA;"Ourisia muscosa";"Ourisia muscosa Benth.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Ourisia";"Flora";NA;NA;NA;NA;NA
 3189718;NA;NA;"Plantago australis";"Plantago australis Lam.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;NA;NA;NA
 8208358;203388;NA;"Plantago lanceolata";"Plantago lanceolata L.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";"Llantén";NA;"Introducida";"LC";NA
@@ -1044,9 +1021,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 7303044;NA;NA;"Plantago monticola";"Plantago monticola Decne.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;NA;NA;NA
 7303024;NA;NA;"Plantago myosuros";"Plantago myosuros Lam.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;NA;NA;NA
 7749255;133319030;NA;"Plantago rigida";"Plantago rigida Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;"Nativa";"LC";NA
-8125162;NA;NA;"Plantago sericea";"Plantago sericea Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;"Endémica";NA;NA
-8125162;NA;NA;"Plantago sericea";"Plantago sericea Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;"Endémica";NA;NA
-8125162;NA;NA;"Plantago sericea";"Plantago sericea Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;"Endémica";NA;NA
 8125162;NA;NA;"Plantago sericea";"Plantago sericea Ruiz & Pav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;"Endémica";NA;NA
 4155306;NA;NA;"Plantago tacnensis";"Plantago tacnensis Pilg.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;"Endémica";NA;NA
 7303101;NA;NA;"Plantago tubulosa";"Plantago tubulosa Decne.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Plantaginaceae";"Plantago";"Flora";NA;NA;NA;NA;NA
@@ -1182,8 +1156,6 @@ NA;NA;NA;"Hesperoburhinus superciliaris";NA;NA;NA;NA;NA;NA;NA;"Aves";"Alcaraván 
 7297548;NA;NA;"Verbena laciniata";"Verbena laciniata (L.) Briq.";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Verbenaceae";"Verbena";"Flora";NA;NA;NA;NA;NA
 2925494;NA;NA;"Verbena litoralis";"Verbena litoralis Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Verbenaceae";"Verbena";"Flora";NA;NA;"Nativa";NA;NA
 7297056;NA;NA;"Verbena glabrata";"Verbena glabrata Kunth";"Plantae";"Tracheophyta";"Magnoliopsida";"Lamiales";"Verbenaceae";"Verbena";"Flora";NA;NA;NA;NA;NA
-7779166;NA;NA;"Balbisia meyeniana";"Balbisia meyeniana Klotzsch";"Plantae";"Tracheophyta";"Magnoliopsida";"Geraniales";"Vivianiaceae";"Balbisia";"Flora";NA;NA;"Nativa";NA;NA
-7779166;NA;NA;"Balbisia meyeniana";"Balbisia meyeniana Klotzsch";"Plantae";"Tracheophyta";"Magnoliopsida";"Geraniales";"Vivianiaceae";"Balbisia";"Flora";NA;NA;NA;NA;NA
 7443475;NA;NA;"Balbisia verticillata";"Balbisia verticillata Cav.";"Plantae";"Tracheophyta";"Magnoliopsida";"Geraniales";"Vivianiaceae";"Balbisia";"Flora";NA;NA;NA;NA;NA
 9715001;NA;NA;"Zygophyllum chilense";"Zygophyllum chilense (Hook. & Arn.) Christenh. & Byng";"Plantae";"Tracheophyta";"Magnoliopsida";"Zygophyllales";"Zygophyllaceae";"Fagonia";"Flora";NA;NA;NA;NA;NA
 2653291;201709;NA;"Ephedra americana";"Ephedra americana Humb. & Bonpl. ex Willd.";"Plantae";"Tracheophyta";"Gnetopsida";"Ephedrales";"Ephedraceae";"Ephedra";"Flora";"Pinco-pinco";"NT";"Nativa";"LC";NA
